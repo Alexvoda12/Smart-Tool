@@ -4,6 +4,11 @@ import random
 import itertools
 import psutil
 import colorama
+print()
+print()
+print()
+print()
+print()
 from colorama import Fore, Style
 os.system('TITLE SmartTool')
 os.system('color E')
